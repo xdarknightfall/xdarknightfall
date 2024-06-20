@@ -6,9 +6,9 @@
 - 💡 Speaker at "QAxperience" about E2E Cypress Testing
 
 <div align="center">
-  <a href="https://github.com/ariellemattos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariellemattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellemattos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/xdarknightfall">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xdarknightfall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdarknightfall&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,4 +22,4 @@
 </div>
   
 <p align="center"> Obrigada pela visita </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ariellemattos/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xdarknightfall/count.svg" /></p>
